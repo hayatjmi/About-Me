@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+main
+{
+    margin: auto;
+    width: 65%;
+    height: auto;
+    border: 1px solid black;
+    background-color: gray;
+}
+.name
+{
+    font-size: 3rem;
+}
+.handles
+{
+    font-size: 1.5rem;
+    display: inline;
+}
+#handles
+{
+  position: absolute;
+  right: 300px;
+}
+.heading
+{
+    font-size: 2rem;
+    color: rgb(64, 64, 223);
+    position: relative;
+    left: 140px;
+}
+table
+{
+    width: 100%;
+    /* border: 1px solid black; */
+    font-size: 1.5rem;
+}
+
+/* td
+{
+  /* border: 1px solid black;  */
+
+.center
+{
+  margin: auto;
+}
+.inline
+{
+    display: inline;
+}
+#right
+{
+    position: relative;
+    right: 300px;
+}
+.institution
+{
+font-weight: bold;
+}
+.small
+{
+    font-size: 1.2rem;
+    font-style:normal;
+}
+.instit
+{
+    font-size: 1.5rem;
+}
+.btn{
+    padding:.4rem 1.5rem;
+    background:white;
+    color:#000000;
+    cursor: pointer;
+    margin-top: .5rem;
+    font-size: 1rem;
+    border : 1px solid gray;
+    border-radius: 5rem;
+}
+.btn:hover{
+    background:var(--yellow);
+    color: white;
+}
+.footer
+{
+    text-align: center;
+}
+#footer
+{
+    height: 30px;
+    background-color: #2579c2;
+    font-size: 1.5rem;
+    /* text-align: center; */
+    color: white;
+    
+}
